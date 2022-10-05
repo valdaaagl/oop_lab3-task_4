@@ -1,0 +1,15 @@
+D:\vl\oop_lab3_4\bin\Debug\net6.0\oop_lab3_4.exe
+D:\vl\oop_lab3_4\bin\Debug\net6.0\oop_lab3_4.deps.json
+D:\vl\oop_lab3_4\bin\Debug\net6.0\oop_lab3_4.runtimeconfig.json
+D:\vl\oop_lab3_4\bin\Debug\net6.0\oop_lab3_4.dll
+D:\vl\oop_lab3_4\bin\Debug\net6.0\oop_lab3_4.pdb
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.csproj.AssemblyReference.cache
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.AssemblyInfoInputs.cache
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.AssemblyInfo.cs
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.csproj.CoreCompileInputs.cache
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.dll
+D:\vl\oop_lab3_4\obj\Debug\net6.0\refint\oop_lab3_4.dll
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.pdb
+D:\vl\oop_lab3_4\obj\Debug\net6.0\oop_lab3_4.genruntimeconfig.cache
+D:\vl\oop_lab3_4\obj\Debug\net6.0\ref\oop_lab3_4.dll
